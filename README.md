@@ -1,1 +1,1 @@
-# silverstripe-page-icoonos
+# silverstripe-page-icons
