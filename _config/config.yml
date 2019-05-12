@@ -1,0 +1,21 @@
+---
+Name: pageicons
+---
+Page:
+  icon: '_resources/app/client/icons/page.svg'
+
+SilverStripe\CMS\Model\RedirectorPage:
+  icon: '_resources/app/client/icons/redirect.svg'
+
+SilverStripe\ErrorPage\ErrorPage:
+  icon: '_resources/app/client/icons/error.svg'
+
+SilverStripe\CMS\Model\VirtualPage:
+  icon: '_resources/app/client/icons/virtual.svg'
+
+---
+Only:
+  classexists: 'SilverStripe\UserForms\Model\UserDefinedForm'
+---
+SilverStripe\UserForms\Model\UserDefinedForm:
+  icon: '_resources/app/client/icons/form.svg'
