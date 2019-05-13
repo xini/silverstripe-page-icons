@@ -15,7 +15,14 @@ SilverStripe\CMS\Model\VirtualPage:
 
 ---
 Only:
-  classexists: 'SilverStripe\UserForms\Model\UserDefinedForm'
+  moduleexists: 'silverstripe/userforms'
 ---
 SilverStripe\UserForms\Model\UserDefinedForm:
   icon: 'fromholdio/silverstripe-page-icons: client/icons/form.svg'
+
+---
+Only:
+  moduleexists: 'symbiote/silverstripe-multisites'
+---
+Symbiote\Multisites\Model\Site:
+  icon: 'fromholdio/silverstripe-page-icons: client/icons/website.svg'
