@@ -6,6 +6,7 @@ Page:
 
 SilverStripe\CMS\Model\RedirectorPage:
   icon: 'fromholdio/silverstripe-page-icons: client/icons/redirect.svg'
+  icon_class: false
 
 SilverStripe\ErrorPage\ErrorPage:
   icon: 'fromholdio/silverstripe-page-icons: client/icons/error.svg'
@@ -14,15 +15,19 @@ SilverStripe\CMS\Model\VirtualPage:
   icon: 'fromholdio/silverstripe-page-icons: client/icons/virtual.svg'
 
 ---
+Name: pageicons-userforms
 Only:
   moduleexists: 'silverstripe/userforms'
 ---
 SilverStripe\UserForms\Model\UserDefinedForm:
   icon: 'fromholdio/silverstripe-page-icons: client/icons/form.svg'
+  icon_class: false
 
 ---
+Name: pageicons-multisites
 Only:
   moduleexists: 'symbiote/silverstripe-multisites'
 ---
 Symbiote\Multisites\Model\Site:
   icon: 'fromholdio/silverstripe-page-icons: client/icons/website.svg'
+  icon_class: false
