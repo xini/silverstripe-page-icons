@@ -1,15 +1,18 @@
 {
-    "name": "fromholdio/silverstripe-page-icons",
+    "name": "innoweb/silverstripe-page-icons",
     "type": "silverstripe-vendormodule",
     "description": "A simple library of SVG page type icons for enhancing your SilverStripe CMS interface.",
     "license": "BSD-3-Clause",
     "keywords": ["silverstripe", "cms", "icons"],
-    "homepage": "https://github.com/fromholdio/silverstripe-page-icons",
+    "homepage": "https://github.com/xini/silverstripe-page-icons",
     "support": {
-        "issues": "https://github.com/fromholdio/silverstripe-page-icons/issues"
+        "issues": "https://github.com/xini/silverstripe-page-icons/issues"
     },
     "authors": [{
         "name": "Florian Thoma",
+        "homepage": "https://innoweb.com.au"
+    },{
+        "name": "Luke Fromhold",
         "homepage": "https://innoweb.com.au"
     }],
     "require": {
@@ -21,5 +24,8 @@
         "expose": [
             "client"
         ]
+    },
+    "replace": {
+        "fromholdio/silverstripe-page-icons": "self.version"
     }
 }
