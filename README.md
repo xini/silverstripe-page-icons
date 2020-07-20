@@ -26,7 +26,7 @@ You can reference the page type icons in your configuration like this:
 
 ```
 Your\Namespace\ExampleLocationPage:
-  icon: 'fromholdio/silverstripe-page-icons: client/icons/location.svg'
+  icon: 'innoweb/silverstripe-page-icons: client/icons/location.svg'
 ```
 
 For page types that use the Silverstripe built-in icon classes, you need to also disable the icon class:
