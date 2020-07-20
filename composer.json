@@ -26,6 +26,6 @@
         ]
     },
     "replace": {
-        "innoweb/silverstripe-page-icons": "self.version"
+        "fromholdio/silverstripe-page-icons": "self.version"
     }
 }
