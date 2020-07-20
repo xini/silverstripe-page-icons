@@ -1,18 +1,25 @@
 ---
 Name: pageicons
 ---
+
+SilverStripe\CMS\Model\SiteTree:
+  icon: 'fromholdio/silverstripe-page-icons: client/icons/page.svg'
+  icon_class: false
+
 Page:
   icon: 'innoweb/silverstripe-page-icons: client/icons/page.svg'
+
+SilverStripe\ErrorPage\ErrorPage:
+  icon: 'fromholdio/silverstripe-page-icons: client/icons/error.svg'
+  icon_class: false
 
 SilverStripe\CMS\Model\RedirectorPage:
   icon: 'innoweb/silverstripe-page-icons: client/icons/redirect.svg'
   icon_class: false
 
-SilverStripe\ErrorPage\ErrorPage:
-  icon: 'innoweb/silverstripe-page-icons: client/icons/error.svg'
-
 SilverStripe\CMS\Model\VirtualPage:
   icon: 'innoweb/silverstripe-page-icons: client/icons/virtual.svg'
+  icon_class: false
 
 ---
 Name: pageicons-userforms
@@ -21,6 +28,15 @@ Only:
 ---
 SilverStripe\UserForms\Model\UserDefinedForm:
   icon: 'innoweb/silverstripe-page-icons: client/icons/form.svg'
+  icon_class: false
+
+---
+Name: pageicons-blog
+Only:
+  moduleexists: 'silverstripe/blog'
+---
+SilverStripe\Blog\Model\Blog:
+  icon: 'fromholdio/silverstripe-page-icons: client/icons/blog.svg'
   icon_class: false
 
 ---
