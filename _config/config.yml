@@ -3,14 +3,14 @@ Name: pageicons
 ---
 
 SilverStripe\CMS\Model\SiteTree:
-  icon: 'fromholdio/silverstripe-page-icons: client/icons/page.svg'
+  icon: 'innoweb/silverstripe-page-icons: client/icons/page.svg'
   icon_class: false
 
 Page:
   icon: 'innoweb/silverstripe-page-icons: client/icons/page.svg'
 
 SilverStripe\ErrorPage\ErrorPage:
-  icon: 'fromholdio/silverstripe-page-icons: client/icons/error.svg'
+  icon: 'innoweb/silverstripe-page-icons: client/icons/error.svg'
   icon_class: false
 
 SilverStripe\CMS\Model\RedirectorPage:
@@ -36,7 +36,7 @@ Only:
   moduleexists: 'silverstripe/blog'
 ---
 SilverStripe\Blog\Model\Blog:
-  icon: 'fromholdio/silverstripe-page-icons: client/icons/blog.svg'
+  icon: 'innoweb/silverstripe-page-icons: client/icons/blog.svg'
   icon_class: false
 
 ---
