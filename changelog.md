@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## [2.1.3]
+
+* add icons for appointment, book, briefcase, clock, dashboard, development, invoice, service and teamwork
+
 ## [2.1.2]
 
 * add icons for conversation, download, megaphone and music

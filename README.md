@@ -49,11 +49,17 @@ It also replaces the page types for the following modules:
 
 <img src="./client/icons/application.svg" height="24" width="24" style="vertical-align: middle;"> application
 
+<img src="./client/icons/appointment.svg" height="24" width="24" style="vertical-align: middle;"> appointment
+
 <img src="./client/icons/award.svg" height="24" width="24" style="vertical-align: middle;"> award
 
 <img src="./client/icons/bacteria.svg" height="24" width="24" style="vertical-align: middle;"> bacteria
 
 <img src="./client/icons/blog.svg" height="24" width="24" style="vertical-align: middle;"> blog
+
+<img src="./client/icons/book.svg" height="24" width="24" style="vertical-align: middle;"> book
+
+<img src="./client/icons/briefcase.svg" height="24" width="24" style="vertical-align: middle;"> briefcase
 
 <img src="./client/icons/cart.svg" height="24" width="24" style="vertical-align: middle;"> cart
 
@@ -61,7 +67,13 @@ It also replaces the page types for the following modules:
 
 <img src="./client/icons/chemistry.svg" height="24" width="24" style="vertical-align: middle;"> chemistry
 
+<img src="./client/icons/clock.svg" height="24" width="24" style="vertical-align: middle;"> clock
+
 <img src="./client/icons/conversation.svg" height="24" width="24" style="vertical-align: middle;"> conversation
+
+<img src="./client/icons/dashboard.svg" height="24" width="24" style="vertical-align: middle;"> dashboard
+
+<img src="./client/icons/development.svg" height="24" width="24" style="vertical-align: middle;"> development
 
 <img src="./client/icons/documents.svg" height="24" width="24" style="vertical-align: middle;"> documents
 
@@ -90,6 +102,8 @@ It also replaces the page types for the following modules:
 <img src="./client/icons/home.svg" height="24" width="24" style="vertical-align: middle;"> home
 
 <img src="./client/icons/info.svg" height="24" width="24" style="vertical-align: middle;"> info
+
+<img src="./client/icons/invoice.svg" height="24" width="24" style="vertical-align: middle;"> invoice
 
 <img src="./client/icons/landing.svg" height="24" width="24" style="vertical-align: middle;"> landing
 
@@ -123,11 +137,15 @@ It also replaces the page types for the following modules:
 
 <img src="./client/icons/search.svg" height="24" width="24" style="vertical-align: middle;"> search
 
+<img src="./client/icons/service.svg" height="24" width="24" style="vertical-align: middle;"> service
+
 <img src="./client/icons/sitemap.svg" height="24" width="24" style="vertical-align: middle;"> sitemap
 
 <img src="./client/icons/statistics.svg" height="24" width="24" style="vertical-align: middle;"> statistics
 
 <img src="./client/icons/sustainability.svg" height="24" width="24" style="vertical-align: middle;"> sustainability
+
+<img src="./client/icons/teamwork.svg" height="24" width="24" style="vertical-align: middle;"> teamwork
 
 <img src="./client/icons/video.svg" height="24" width="24" style="vertical-align: middle;"> video
 
