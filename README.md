@@ -61,7 +61,11 @@ It also replaces the page types for the following modules:
 
 <img src="./client/icons/chemistry.svg" height="24" width="24" style="vertical-align: middle;"> chemistry
 
+<img src="./client/icons/conversation.svg" height="24" width="24" style="vertical-align: middle;"> conversation
+
 <img src="./client/icons/documents.svg" height="24" width="24" style="vertical-align: middle;"> documents
+
+<img src="./client/icons/download.svg" height="24" width="24" style="vertical-align: middle;"> download
 
 <img src="./client/icons/education.svg" height="24" width="24" style="vertical-align: middle;"> education
 
@@ -95,7 +99,11 @@ It also replaces the page types for the following modules:
 
 <img src="./client/icons/location.svg" height="24" width="24" style="vertical-align: middle;"> location
 
+<img src="./client/icons/megaphone.svg" height="24" width="24" style="vertical-align: middle;"> megaphone
+
 <img src="./client/icons/microscope.svg" height="24" width="24" style="vertical-align: middle;"> microscope
+
+<img src="./client/icons/music.svg" height="24" width="24" style="vertical-align: middle;"> music
 
 <img src="./client/icons/newsletter.svg" height="24" width="24" style="vertical-align: middle;"> newsletter
 
