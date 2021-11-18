@@ -121,6 +121,8 @@ It also replaces the page types for the following modules:
 
 <img src="./client/icons/newsletter.svg" height="24" width="24" style="vertical-align: middle;"> newsletter
 
+<img src="./client/icons/order.svg" height="24" width="24" style="vertical-align: middle;"> order
+
 <img src="./client/icons/overview.svg" height="24" width="24" style="vertical-align: middle;"> overview
 
 <img src="./client/icons/page.svg" height="24" width="24" style="vertical-align: middle;"> page
