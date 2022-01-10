@@ -4,6 +4,11 @@ All notable changes to this project will be documented in this file.
 
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## [2.1.5]
+
+* add icons for user, users
+* update icons for gallery, invoice
+
 ## [2.1.4]
 
 * add order icon

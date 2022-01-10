@@ -149,6 +149,10 @@ It also replaces the page types for the following modules:
 
 <img src="./client/icons/teamwork.svg" height="24" width="24" style="vertical-align: middle;"> teamwork
 
+<img src="./client/icons/user.svg" height="24" width="24" style="vertical-align: middle;"> user
+
+<img src="./client/icons/users.svg" height="24" width="24" style="vertical-align: middle;"> users
+
 <img src="./client/icons/video.svg" height="24" width="24" style="vertical-align: middle;"> video
 
 <img src="./client/icons/virtual-reality.svg" height="24" width="24" style="vertical-align: middle;"> virtual-reality
