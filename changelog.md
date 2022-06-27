@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## [2.2.0]
+
+* add icons for assembly, locations, map, parliament, team, vote
+
 ## [2.1.5]
 
 * add icons for user, users

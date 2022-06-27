@@ -51,6 +51,8 @@ It also replaces the page types for the following modules:
 
 <img src="./client/icons/appointment.svg" height="24" width="24" style="vertical-align: middle;"> appointment
 
+<img src="./client/icons/assembly.svg" height="24" width="24" style="vertical-align: middle;"> assembly
+
 <img src="./client/icons/award.svg" height="24" width="24" style="vertical-align: middle;"> award
 
 <img src="./client/icons/bacteria.svg" height="24" width="24" style="vertical-align: middle;"> bacteria
@@ -113,6 +115,10 @@ It also replaces the page types for the following modules:
 
 <img src="./client/icons/location.svg" height="24" width="24" style="vertical-align: middle;"> location
 
+<img src="./client/icons/locations.svg" height="24" width="24" style="vertical-align: middle;"> locations
+
+<img src="./client/icons/map.svg" height="24" width="24" style="vertical-align: middle;"> map
+
 <img src="./client/icons/megaphone.svg" height="24" width="24" style="vertical-align: middle;"> megaphone
 
 <img src="./client/icons/microscope.svg" height="24" width="24" style="vertical-align: middle;"> microscope
@@ -128,6 +134,8 @@ It also replaces the page types for the following modules:
 <img src="./client/icons/page.svg" height="24" width="24" style="vertical-align: middle;"> page
 
 <img src="./client/icons/pages.svg" height="24" width="24" style="vertical-align: middle;"> pages
+
+<img src="./client/icons/parliament.svg" height="24" width="24" style="vertical-align: middle;"> parliament
 
 <img src="./client/icons/photo.svg" height="24" width="24" style="vertical-align: middle;"> photo
 
@@ -147,6 +155,8 @@ It also replaces the page types for the following modules:
 
 <img src="./client/icons/sustainability.svg" height="24" width="24" style="vertical-align: middle;"> sustainability
 
+<img src="./client/icons/team.svg" height="24" width="24" style="vertical-align: middle;"> team
+
 <img src="./client/icons/teamwork.svg" height="24" width="24" style="vertical-align: middle;"> teamwork
 
 <img src="./client/icons/user.svg" height="24" width="24" style="vertical-align: middle;"> user
@@ -158,6 +168,8 @@ It also replaces the page types for the following modules:
 <img src="./client/icons/virtual-reality.svg" height="24" width="24" style="vertical-align: middle;"> virtual-reality
 
 <img src="./client/icons/virtual.svg" height="24" width="24" style="vertical-align: middle;"> virtual
+
+<img src="./client/icons/vote.svg" height="24" width="24" style="vertical-align: middle;"> vote
 
 <img src="./client/icons/website.svg" height="24" width="24" style="vertical-align: middle;"> website
 
