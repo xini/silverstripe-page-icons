@@ -1,13 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="16" height="16" viewBox="0 0 32 32" style="enable-background:new 0 0 32 32;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#5A7197;}
-</style>
-<path class="st0" d="M29,7h-8.1V5.8c0-0.9-0.5-1.6-1.1-1.6h-7.4c-0.6,0-1.1,0.7-1.1,1.6V7H3C1.8,7,0.8,8,0.8,9.2v15.7
-	c0,1.2,1,2.2,2.2,2.2H29c1.2,0,2.2-1,2.2-2.2V9.2C31.2,8,30.2,7,29,7z M12.5,5.8c0-0.1,0-0.2,0-0.3h7c0,0.1,0,0.2,0,0.3V7h-7V5.8z
-	 M3,8.3H29c0.5,0,0.9,0.4,0.9,0.9v3.3c-2.2,2.8-6.4,4.8-11.4,5.4v-2h-5.1v2c-4.9-0.5-9.1-2.5-11.3-5.2V9.2C2.1,8.7,2.5,8.3,3,8.3z
-	 M17.2,17.2v3.4h-2.5v-3.4C14.7,17.2,17.2,17.2,17.2,17.2z M29,25.8H3c-0.5,0-0.9-0.4-0.9-0.9V14.6c2.6,2.5,6.7,4.2,11.3,4.6v2.6
-	h5.1v-2.6c4.7-0.5,8.8-2.3,11.4-4.8v10.5C29.9,25.4,29.5,25.8,29,25.8z"/>
+<svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+	<path stroke="#6f84a7" stroke-linecap="round" stroke-linejoin="round" d="M21 13.255A23.931 23.931 0 0112 15c-3.183 0-6.22-.62-9-1.745M16 6V4a2 2 0 00-2-2h-4a2 2 0 00-2 2v2m4 6h.01M5 20h14a2 2 0 002-2V8a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
 </svg>
