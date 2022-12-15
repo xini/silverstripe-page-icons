@@ -57,6 +57,8 @@ It also replaces the page types for the following modules:
 
 <img src="./client/icons/bacteria.svg" height="24" width="24" style="vertical-align: middle;"> bacteria
 
+<img src="./client/icons/bands.svg" height="24" width="24" style="vertical-align: middle;"> bands
+
 <img src="./client/icons/blog.svg" height="24" width="24" style="vertical-align: middle;"> blog
 
 <img src="./client/icons/book.svg" height="24" width="24" style="vertical-align: middle;"> book
