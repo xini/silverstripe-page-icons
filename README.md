@@ -9,7 +9,9 @@ A simple library of SVG page type icons for enhancing your SilverStripe CMS inte
 
 ## Requirements
 
-* SilverStripe CMS 4.x
+* SilverStripe CMS 5.x
+
+Note: this version is compatible with SilverStripe 5. For SilverStripe 4, please see the [2 release line](https://github.com/xini/silverstripe-page-icons/tree/2).
 
 ## Installation
 
