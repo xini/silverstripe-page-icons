@@ -53,6 +53,8 @@ It also replaces the page types for the following modules:
 
 <img src="./client/icons/appointment.svg" height="24" width="24" style="vertical-align: middle;"> appointment
 
+<img src="./client/icons/archive.svg" height="24" width="24" style="vertical-align: middle;"> archive
+
 <img src="./client/icons/assembly.svg" height="24" width="24" style="vertical-align: middle;"> assembly
 
 <img src="./client/icons/award.svg" height="24" width="24" style="vertical-align: middle;"> award
@@ -74,6 +76,8 @@ It also replaces the page types for the following modules:
 <img src="./client/icons/chemistry.svg" height="24" width="24" style="vertical-align: middle;"> chemistry
 
 <img src="./client/icons/clock.svg" height="24" width="24" style="vertical-align: middle;"> clock
+
+<img src="./client/icons/code.svg" height="24" width="24" style="vertical-align: middle;"> code
 
 <img src="./client/icons/conversation.svg" height="24" width="24" style="vertical-align: middle;"> conversation
 
@@ -129,6 +133,8 @@ It also replaces the page types for the following modules:
 
 <img src="./client/icons/music.svg" height="24" width="24" style="vertical-align: middle;"> music
 
+<img src="./client/icons/news.svg" height="24" width="24" style="vertical-align: middle;"> news
+
 <img src="./client/icons/newsletter.svg" height="24" width="24" style="vertical-align: middle;"> newsletter
 
 <img src="./client/icons/order.svg" height="24" width="24" style="vertical-align: middle;"> order
@@ -138,6 +144,8 @@ It also replaces the page types for the following modules:
 <img src="./client/icons/page.svg" height="24" width="24" style="vertical-align: middle;"> page
 
 <img src="./client/icons/pages.svg" height="24" width="24" style="vertical-align: middle;"> pages
+
+<img src="./client/icons/paperclip.svg" height="24" width="24" style="vertical-align: middle;"> paperclip
 
 <img src="./client/icons/parliament.svg" height="24" width="24" style="vertical-align: middle;"> parliament
 
@@ -162,6 +170,8 @@ It also replaces the page types for the following modules:
 <img src="./client/icons/team.svg" height="24" width="24" style="vertical-align: middle;"> team
 
 <img src="./client/icons/teamwork.svg" height="24" width="24" style="vertical-align: middle;"> teamwork
+
+<img src="./client/icons/tools.svg" height="24" width="24" style="vertical-align: middle;"> tools
 
 <img src="./client/icons/user.svg" height="24" width="24" style="vertical-align: middle;"> user
 
