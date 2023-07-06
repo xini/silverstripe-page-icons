@@ -77,8 +77,6 @@ It also replaces the page types for the following modules:
 
 <img src="./client/icons/clock.svg" height="24" width="24" style="vertical-align: middle;"> clock
 
-<img src="./client/icons/code.svg" height="24" width="24" style="vertical-align: middle;"> code
-
 <img src="./client/icons/conversation.svg" height="24" width="24" style="vertical-align: middle;"> conversation
 
 <img src="./client/icons/dashboard.svg" height="24" width="24" style="vertical-align: middle;"> dashboard

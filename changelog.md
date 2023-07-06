@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## [3.1.1]
+
+* remove code icon (duplicate of development)
+
 ## [3.1.0]
 
 * add icons for archive, code, news, paperclip and tools
