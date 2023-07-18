@@ -105,6 +105,8 @@ It also replaces the page types for the following modules:
 
 <img src="./client/icons/gallery.svg" height="24" width="24" style="vertical-align: middle;"> gallery
 
+<img src="./client/icons/gift.svg" height="24" width="24" style="vertical-align: middle;"> gift
+
 <img src="./client/icons/globe.svg" height="24" width="24" style="vertical-align: middle;"> globe
 
 <img src="./client/icons/home.svg" height="24" width="24" style="vertical-align: middle;"> home
@@ -161,6 +163,8 @@ It also replaces the page types for the following modules:
 
 <img src="./client/icons/sitemap.svg" height="24" width="24" style="vertical-align: middle;"> sitemap
 
+<img src="./client/icons/stack.svg" height="24" width="24" style="vertical-align: middle;"> stack
+
 <img src="./client/icons/statistics.svg" height="24" width="24" style="vertical-align: middle;"> statistics
 
 <img src="./client/icons/sustainability.svg" height="24" width="24" style="vertical-align: middle;"> sustainability
@@ -168,6 +172,8 @@ It also replaces the page types for the following modules:
 <img src="./client/icons/team.svg" height="24" width="24" style="vertical-align: middle;"> team
 
 <img src="./client/icons/teamwork.svg" height="24" width="24" style="vertical-align: middle;"> teamwork
+
+<img src="./client/icons/ticket.svg" height="24" width="24" style="vertical-align: middle;"> ticket
 
 <img src="./client/icons/tools.svg" height="24" width="24" style="vertical-align: middle;"> tools
 
