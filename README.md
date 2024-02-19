@@ -43,6 +43,7 @@ The module by default replaces the icons for the default page types SiteTree/Pag
 It also replaces the page types for the following modules:
 * [Blog](https://github.com/silverstripe/silverstripe-blog)
 * [Multisites](https://github.com/symbiote/silverstripe-multisites)
+* [Configured Multisites](https://github.com/fromholdio/silverstripe-configured-multisites)
 * [UserForms](https://github.com/silverstripe/silverstripe-userforms)
 
 ## Available icons
