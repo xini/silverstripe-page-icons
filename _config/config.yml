@@ -47,3 +47,12 @@ Only:
 Symbiote\Multisites\Model\Site:
   icon: 'innoweb/silverstripe-page-icons: client/icons/website.svg'
   icon_class: false
+
+---
+Name: pageicons-configured-multisites
+Only:
+  moduleexists: 'fromholdio/silverstripe-configured-multisites'
+---
+Fromholdio\ConfiguredMultisites\Model\Site:
+  icon: 'innoweb/silverstripe-page-icons: client/icons/website.svg'
+  icon_class: false
