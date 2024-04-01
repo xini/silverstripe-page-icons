@@ -110,6 +110,8 @@ It also replaces the page types for the following modules:
 
 <img src="./client/icons/globe.svg" height="24" width="24" style="vertical-align: middle;"> globe
 
+<img src="./client/icons/heart.svg" height="24" width="24" style="vertical-align: middle;"> heart
+
 <img src="./client/icons/home.svg" height="24" width="24" style="vertical-align: middle;"> home
 
 <img src="./client/icons/info.svg" height="24" width="24" style="vertical-align: middle;"> info
@@ -142,6 +144,8 @@ It also replaces the page types for the following modules:
 
 <img src="./client/icons/overview.svg" height="24" width="24" style="vertical-align: middle;"> overview
 
+<img src="./client/icons/paintbrush.svg" height="24" width="24" style="vertical-align: middle;"> paintbrush
+
 <img src="./client/icons/page.svg" height="24" width="24" style="vertical-align: middle;"> page
 
 <img src="./client/icons/pages.svg" height="24" width="24" style="vertical-align: middle;"> pages
@@ -151,6 +155,10 @@ It also replaces the page types for the following modules:
 <img src="./client/icons/parliament.svg" height="24" width="24" style="vertical-align: middle;"> parliament
 
 <img src="./client/icons/photo.svg" height="24" width="24" style="vertical-align: middle;"> photo
+
+<img src="./client/icons/play.svg" height="24" width="24" style="vertical-align: middle;"> play
+
+<img src="./client/icons/puzzle.svg" height="24" width="24" style="vertical-align: middle;"> puzzle
 
 <img src="./client/icons/recipe.svg" height="24" width="24" style="vertical-align: middle;"> recipe
 
@@ -166,9 +174,13 @@ It also replaces the page types for the following modules:
 
 <img src="./client/icons/stack.svg" height="24" width="24" style="vertical-align: middle;"> stack
 
+<img src="./client/icons/star.svg" height="24" width="24" style="vertical-align: middle;"> star
+
 <img src="./client/icons/statistics.svg" height="24" width="24" style="vertical-align: middle;"> statistics
 
 <img src="./client/icons/sustainability.svg" height="24" width="24" style="vertical-align: middle;"> sustainability
+
+<img src="./client/icons/swatch.svg" height="24" width="24" style="vertical-align: middle;"> swatch
 
 <img src="./client/icons/team.svg" height="24" width="24" style="vertical-align: middle;"> team
 

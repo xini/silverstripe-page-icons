@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## [3.4.0]
+
+* add icons for heart, paintbrush, play, puzzle, star and swatch
+
 ## [3.3.0]
 
 * add support for fromholdio/silverstripe-configured-multisites
