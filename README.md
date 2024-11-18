@@ -110,6 +110,8 @@ It also replaces the page types for the following modules:
 
 <img src="./client/icons/globe.svg" height="24" width="24" style="vertical-align: middle;"> globe
 
+<img src="./client/icons/hashtag.svg" height="24" width="24" style="vertical-align: middle;"> hashtag
+
 <img src="./client/icons/heart.svg" height="24" width="24" style="vertical-align: middle;"> heart
 
 <img src="./client/icons/home.svg" height="24" width="24" style="vertical-align: middle;"> home
@@ -182,6 +184,8 @@ It also replaces the page types for the following modules:
 
 <img src="./client/icons/swatch.svg" height="24" width="24" style="vertical-align: middle;"> swatch
 
+<img src="./client/icons/tag.svg" height="24" width="24" style="vertical-align: middle;"> tag
+
 <img src="./client/icons/team.svg" height="24" width="24" style="vertical-align: middle;"> team
 
 <img src="./client/icons/teamwork.svg" height="24" width="24" style="vertical-align: middle;"> teamwork
@@ -207,3 +211,5 @@ It also replaces the page types for the following modules:
 ## License
 
 BSD 3-Clause License, see [License](license.md)
+
+Thanks [heroicons.com](https://heroicons.com/) for the beautiful icons.
