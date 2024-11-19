@@ -4,6 +4,11 @@ All notable changes to this project will be documented in this file.
 
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## [3.6.0]
+
+* add icons for comment, line-chart, package and rocket 
+* update icon for statistics
+
 ## [3.5.0]
 
 * add icons for tag and hashtag

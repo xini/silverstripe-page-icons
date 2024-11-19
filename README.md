@@ -78,6 +78,8 @@ It also replaces the page types for the following modules:
 
 <img src="./client/icons/clock.svg" height="24" width="24" style="vertical-align: middle;"> clock
 
+<img src="./client/icons/comment.svg" height="24" width="24" style="vertical-align: middle;"> comment
+
 <img src="./client/icons/conversation.svg" height="24" width="24" style="vertical-align: middle;"> conversation
 
 <img src="./client/icons/dashboard.svg" height="24" width="24" style="vertical-align: middle;"> dashboard
@@ -124,6 +126,8 @@ It also replaces the page types for the following modules:
 
 <img src="./client/icons/legal.svg" height="24" width="24" style="vertical-align: middle;"> legal
 
+<img src="./client/icons/line-chart.svg" height="24" width="24" style="vertical-align: middle;"> line-chart
+
 <img src="./client/icons/listing.svg" height="24" width="24" style="vertical-align: middle;"> listing
 
 <img src="./client/icons/location.svg" height="24" width="24" style="vertical-align: middle;"> location
@@ -146,6 +150,8 @@ It also replaces the page types for the following modules:
 
 <img src="./client/icons/overview.svg" height="24" width="24" style="vertical-align: middle;"> overview
 
+<img src="./client/icons/package.svg" height="24" width="24" style="vertical-align: middle;"> package
+
 <img src="./client/icons/paintbrush.svg" height="24" width="24" style="vertical-align: middle;"> paintbrush
 
 <img src="./client/icons/page.svg" height="24" width="24" style="vertical-align: middle;"> page
@@ -165,6 +171,8 @@ It also replaces the page types for the following modules:
 <img src="./client/icons/recipe.svg" height="24" width="24" style="vertical-align: middle;"> recipe
 
 <img src="./client/icons/redirect.svg" height="24" width="24" style="vertical-align: middle;"> redirect
+
+<img src="./client/icons/rocket.svg" height="24" width="24" style="vertical-align: middle;"> rocket
 
 <img src="./client/icons/science.svg" height="24" width="24" style="vertical-align: middle;"> science
 
