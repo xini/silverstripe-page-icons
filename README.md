@@ -196,6 +196,8 @@ It also replaces the page types for the following modules:
 
 <img src="./client/icons/tag.svg" height="24" width="24" style="vertical-align: middle;"> tag
 
+<img src="./client/icons/tags.svg" height="24" width="24" style="vertical-align: middle;"> tags
+
 <img src="./client/icons/team.svg" height="24" width="24" style="vertical-align: middle;"> team
 
 <img src="./client/icons/teamwork.svg" height="24" width="24" style="vertical-align: middle;"> teamwork
