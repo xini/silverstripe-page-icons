@@ -152,7 +152,9 @@ It also replaces the page types for the following modules:
 
 <img src="./client/icons/package.svg" height="24" width="24" style="vertical-align: middle;"> package
 
-<img src="./client/icons/package-search.svg" height="24" width="24" style="vertical-align: middle;"> package search
+<img src="./client/icons/package-search.svg" height="24" width="24" style="vertical-align: middle;"> package-search
+
+<img src="./client/icons/packages.svg" height="24" width="24" style="vertical-align: middle;"> packages
 
 <img src="./client/icons/paintbrush.svg" height="24" width="24" style="vertical-align: middle;"> paintbrush
 
