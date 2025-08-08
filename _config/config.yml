@@ -3,23 +3,23 @@ Name: pageicons
 ---
 
 SilverStripe\CMS\Model\SiteTree:
-  icon: 'innoweb/silverstripe-page-icons: client/icons/page.svg'
-  icon_class: false
+  cms_icon: 'innoweb/silverstripe-page-icons: client/icons/page.svg'
+  cms_icon_class: false
 
 Page:
-  icon: 'innoweb/silverstripe-page-icons: client/icons/page.svg'
+  cms_icon: 'innoweb/silverstripe-page-icons: client/icons/page.svg'
 
 SilverStripe\ErrorPage\ErrorPage:
-  icon: 'innoweb/silverstripe-page-icons: client/icons/error.svg'
-  icon_class: false
+  cms_icon: 'innoweb/silverstripe-page-icons: client/icons/error.svg'
+  cms_icon_class: false
 
 SilverStripe\CMS\Model\RedirectorPage:
-  icon: 'innoweb/silverstripe-page-icons: client/icons/redirect.svg'
-  icon_class: false
+  cms_icon: 'innoweb/silverstripe-page-icons: client/icons/redirect.svg'
+  cms_icon_class: false
 
 SilverStripe\CMS\Model\VirtualPage:
-  icon: 'innoweb/silverstripe-page-icons: client/icons/virtual.svg'
-  icon_class: false
+  cms_icon: 'innoweb/silverstripe-page-icons: client/icons/virtual.svg'
+  cms_icon_class: false
 
 ---
 Name: pageicons-userforms
@@ -27,8 +27,8 @@ Only:
   moduleexists: 'silverstripe/userforms'
 ---
 SilverStripe\UserForms\Model\UserDefinedForm:
-  icon: 'innoweb/silverstripe-page-icons: client/icons/form.svg'
-  icon_class: false
+  cms_icon: 'innoweb/silverstripe-page-icons: client/icons/form.svg'
+  cms_icon_class: false
 
 ---
 Name: pageicons-blog
@@ -36,8 +36,8 @@ Only:
   moduleexists: 'silverstripe/blog'
 ---
 SilverStripe\Blog\Model\Blog:
-  icon: 'innoweb/silverstripe-page-icons: client/icons/blog.svg'
-  icon_class: false
+  cms_icon: 'innoweb/silverstripe-page-icons: client/icons/blog.svg'
+  cms_icon_class: false
 
 ---
 Name: pageicons-multisites
@@ -45,8 +45,8 @@ Only:
   moduleexists: 'symbiote/silverstripe-multisites'
 ---
 Symbiote\Multisites\Model\Site:
-  icon: 'innoweb/silverstripe-page-icons: client/icons/website.svg'
-  icon_class: false
+  cms_icon: 'innoweb/silverstripe-page-icons: client/icons/website.svg'
+  cms_icon_class: false
 
 ---
 Name: pageicons-configured-multisites
@@ -54,5 +54,5 @@ Only:
   moduleexists: 'fromholdio/silverstripe-configured-multisites'
 ---
 Fromholdio\ConfiguredMultisites\Model\Site:
-  icon: 'innoweb/silverstripe-page-icons: client/icons/website.svg'
-  icon_class: false
+  cms_icon: 'innoweb/silverstripe-page-icons: client/icons/website.svg'
+  cms_icon_class: false

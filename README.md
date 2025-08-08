@@ -9,9 +9,7 @@ A simple library of SVG page type icons for enhancing your SilverStripe CMS inte
 
 ## Requirements
 
-* SilverStripe CMS 5.x
-
-Note: this version is compatible with SilverStripe 5. For SilverStripe 4, please see the [2 release line](https://github.com/xini/silverstripe-page-icons/tree/2).
+* Silverstripe CMS 6
 
 ## Installation
 
@@ -28,15 +26,15 @@ You can reference the page type icons in your configuration like this:
 
 ```
 Your\Namespace\ExampleLocationPage:
-  icon: 'innoweb/silverstripe-page-icons: client/icons/location.svg'
+  cms_icon: 'innoweb/silverstripe-page-icons: client/icons/location.svg'
 ```
 
 For page types that use the Silverstripe built-in icon classes, you need to also disable the icon class:
 
 ```
 SilverStripe\UserForms\Model\UserDefinedForm:
-  icon: 'innoweb/silverstripe-page-icons: client/icons/form.svg'
-  icon_class: false
+  cms_icon: 'innoweb/silverstripe-page-icons: client/icons/form.svg'
+  cms_icon_class: false
 ```
 
 The module by default replaces the icons for the default page types SiteTree/Page, ErrorPage, VirtualPage and RedirectorPage.
